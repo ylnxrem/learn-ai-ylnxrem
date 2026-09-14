@@ -1,4 +1,5 @@
-# The introduction of yuanshen
+# Why do I have a crazy day?
+因为我玩原神
 
 ## What is yuanshen?
 
